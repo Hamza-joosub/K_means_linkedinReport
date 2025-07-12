@@ -1,0 +1,270 @@
+Code,Company,Link,"Market Cap","Last trade",Change,%Change,Sector
+JSE:PRX,"Prosus N.V. (JSE:PRX)",https://www.listcorp.com/jse/prx/prosus-nv,"	2287790000000",984.09,22.41,2.33,Technology
+JSE:BHG,"BHP Group Limited (JSE:BHG)",https://www.listcorp.com/jse/bhg/bhp-group-limited,"	2238510000000",444.96,3.97,0.9,"Basic Materials"
+JSE:ANH,"Anheuser-Busch Inbev (JSE:ANH)",https://www.listcorp.com/jse/anh/anheuser-busch-inbev,"	2201800000000",1227.99,2.82,0.23,"Consumer Goods"
+JSE:BTI,"British American Tobacco (JSE:BTI)",https://www.listcorp.com/jse/bti/british-american-tobacco,"	1987650000000",858.82,10.44,1.23,"Consumer Goods"
+JSE:CFR,"Compagnie Fin Richemont (JSE:CFR)",https://www.listcorp.com/jse/cfr/compagnie-fin-richemont,"	1783080000000",3329,12.27,0.37,"Consumer Goods"
+JSE:GLN,"Glencore plc (JSE:GLN)",https://www.listcorp.com/jse/gln/glencore-plc,"	964367000000",72.35,-0.57,-0.78,"Basic Materials"
+JSE:NPN,"Naspers Limited - N (JSE:NPN)",https://www.listcorp.com/jse/npn/naspers-limited-n,"	881232000000",5446.3,86.82,1.62,Technology
+JSE:AGL,"Anglo American plc (JSE:AGL)",https://www.listcorp.com/jse/agl/anglo-american-plc,"	626228000000",532.67,1.12,0.21,"Basic Materials"
+JSE:ANG,"Anglogold Ashanti (JSE:ANG)",https://www.listcorp.com/jse/ang/anglogold-ashanti,"	419908000000",824.43,-7.99,-0.96,"Basic Materials"
+JSE:FSR,"Firstrand Limited (JSE:FSR)",https://www.listcorp.com/jse/fsr/firstrand-limited,"	419646000000",74.35,-0.46,-0.61,Financials
+JSE:CPI,"Capitec Bank Holdings Limited (JSE:CPI)",https://www.listcorp.com/jse/cpi/capitec-bank-holdings-limited,"	415417000000",3574.8,-3.22,-0.09,Financials
+JSE:GFI,"Gold Fields Limited (JSE:GFI)",https://www.listcorp.com/jse/gfi/gold-fields-limited,"	387134000000",427.91,-4.63,-1.07,"Basic Materials"
+JSE:SBK,"Standard Bank Group (JSE:SBK)",https://www.listcorp.com/jse/sbk/standard-bank-group,"	372867000000",227.455,0.95,0.42,Financials
+JSE:VOD,"Vodacom Group Limited (JSE:VOD)",https://www.listcorp.com/jse/vod/vodacom-group-limited,"	288425000000",137.88,-0.93,-0.67,Telecommunications
+JSE:MTN,"MTN Group Limited (JSE:MTN)",https://www.listcorp.com/jse/mtn/mtn-group-limited,"	256660000000",140.68,0.71,0.51,Telecommunications
+JSE:VAL,"Valterra Platinum Limited (JSE:VAL)",https://www.listcorp.com/jse/val/valterra-platinum-limited,"	225498000000",836.46,-13.51,-1.59,"Basic Materials"
+JSE:SLM,"Sanlam Limited (JSE:SLM)",https://www.listcorp.com/jse/slm/sanlam-limited,"	188024000000",88.83,0.02,0.02,Financials
+JSE:SHP,"Shoprite Holdings Limited (JSE:SHP)",https://www.listcorp.com/jse/shp/shoprite-holdings-limited,"	167337000000",281.35,-1.64,-0.58,"Consumer Services"
+JSE:S32,"South32 Limited (JSE:S32)",https://www.listcorp.com/jse/s32/south32-limited,"	161631000000",35.55,-0.31,-0.86,"Basic Materials"
+JSE:HAR,"Harmony Gold Mining Company (JSE:HAR)",https://www.listcorp.com/jse/har/harmony-gold-mining-company,"	161155000000",252.45,-1.42,-0.56,"Basic Materials"
+JSE:ABG,"Absa Group Limited (JSE:ABG)",https://www.listcorp.com/jse/abg/absa-group-limited,"	160630000000",178.02,-1.58,-0.88,Financials
+JSE:BID,"Bid Corporation Limited (JSE:BID)",https://www.listcorp.com/jse/bid/bidcorp,"	155313000000",457.81,-3.18,-0.69,"Consumer Services"
+JSE:IMP,"Impala Platinum Holdings Limited (JSE:IMP)",https://www.listcorp.com/jse/imp/implats,"	154737000000",169.88,-1.21,-0.71,"Basic Materials"
+JSE:DSY,"Discovery Limited (JSE:DSY)",https://www.listcorp.com/jse/dsy/discovery-limited,"	149836000000",219.32,-1.12,-0.51,Financials
+JSE:MNP,"Mondi plc (JSE:MNP)",https://www.listcorp.com/jse/mnp/mondi-plc,"	127083000000",287.18,-0.72,-0.25,"Basic Materials"
+JSE:OUT,"OUTsurance Holdings Limited (JSE:OUT)",https://www.listcorp.com/jse/out/outsurance-holdings-limited,"	121798000000",78.48,-0.24,-0.3,Financials
+JSE:NED,"Nedbank Group Limited (JSE:NED)",https://www.listcorp.com/jse/ned/nedbank-group-limited,"	118317000000",242.47,-0.92,-0.38,Financials
+JSE:RNI,"Reinet Investments S.C.A. (JSE:RNI)",https://www.listcorp.com/jse/rni/reinet-investments,"	104047000000",531.22,0.21,0.04,Financials
+JSE:PPH,"Pepkor Holdings Limited (JSE:PPH)",https://www.listcorp.com/jse/pph/pepkor-holdings-limited,"	103966000000",27.87,-0.28,-0.99,"Consumer Services"
+JSE:NHM,"Northam Platinum Limited (JSE:NHM)",https://www.listcorp.com/jse/nhm/northam-platinum-limited,"	101604000000",189.66,-9.65,-4.84,"Basic Materials"
+JSE:SSW,"Sibanye Stillwater Limited (JSE:SSW)",https://www.listcorp.com/jse/ssw/sibanye-stillwater-limited,"	98900000000",34.35,-0.59,-1.69,"Basic Materials"
+JSE:NRP,"Nepi Rockcastle plc (JSE:NRP)",https://www.listcorp.com/jse/nrp/nepi-rockcastle-plc,"	97308000000",137.39,0.79,0.58,Financials
+JSE:KIO,"Kumba Iron Ore (JSE:KIO)",https://www.listcorp.com/jse/kio/kumba-iron-ore,"	96261800000",297.22,-1.64,-0.55,"Basic Materials"
+JSE:INP,"Investec plc (JSE:INP)",https://www.listcorp.com/jse/inp/investec-plc,"	90532500000",129.98,-0.08,-0.06,Financials
+JSE:REM,"Remgro Limited (JSE:REM)",https://www.listcorp.com/jse/rem/remgro-limited,"	89072500000",167.8,-0.50,-0.3,Financials
+JSE:CLS,"Clicks Group Limited (JSE:CLS)",https://www.listcorp.com/jse/cls/clicks-group-limited,"	87717100000",367.59,-2.63,-0.71,"Consumer Services"
+JSE:BVT,"Bidvest Group (JSE:BVT)",https://www.listcorp.com/jse/bvt/bidvest-group,"	81240500000",236.68,-2.08,-0.87,Industrials
+JSE:NPH,"Northam Platinum Holdings Limited (JSE:NPH)",https://www.listcorp.com/jse/nph/northam-platinum-holdings-limited,"	79780500000",196.89,-2.51,-1.26,"Basic Materials"
+JSE:MRP,"Mr Price Group (JSE:MRP)",https://www.listcorp.com/jse/mrp/mr-price-group,"	57588200000",217.61,-4.06,-1.83,"Consumer Services"
+JSE:OMU,"Old Mutual Limited (JSE:OMU)",https://www.listcorp.com/jse/omu/old-mutual-limited,"	57261700000",12.18,0.03,0.25,Financials
+JSE:SOL,"Sasol Limited (JSE:SOL)",https://www.listcorp.com/jse/sol/sasol-limited,"	56935100000",88.525,-0.02,-0.02,"Basic Materials"
+JSE:EXX,"Exxaro Resources Limited (JSE:EXX)",https://www.listcorp.com/jse/exx/exxaro-resources-limited,"	54104100000",156.64,0.59,0.38,"Basic Materials"
+JSE:TBS,"Tiger Brands Limited (JSE:TBS)",https://www.listcorp.com/jse/tbs/tiger-brands-limited,"	53817500000",304.97,-1.22,-0.4,"Consumer Goods"
+JSE:APN,"Aspen Pharmacare Holdings Limited (JSE:APN)",https://www.listcorp.com/jse/apn/aspen-pharmacare-holdings,"	52907700000",118.265,-0.30,-0.25,"Health Care"
+JSE:MCG,"MultiChoice Group (JSE:MCG)",https://www.listcorp.com/jse/mcg/multichoice-group,"	51924400000",117.3,-0.04,-0.03,"Consumer Services"
+JSE:WHL,"Woolworths Holdings Limited (JSE:WHL)",https://www.listcorp.com/jse/whl/woolworths-holdings-limited,"	51768100000",51.68,-0.68,-1.3,"Consumer Services"
+JSE:QLT,"Quilter plc (JSE:QLT)",https://www.listcorp.com/jse/qlt/quilter-plc,"	51699200000",37.3,0.48,1.3,Financials
+JSE:SNT,"Santam Limited (JSE:SNT)",https://www.listcorp.com/jse/snt/santam-limited,"	49436300000",431.72,2.32,0.54,Financials
+JSE:RMI,"Rand Merchant Investment Holdings (JSE:RMI)",https://www.listcorp.com/jse/rmi/rand-merchant-investment-holdings,"	47562600000",31.38,0.33,1.06,Financials
+JSE:GRT,"Growthpoint Properties Limited (JSE:GRT)",https://www.listcorp.com/jse/grt/growthpoint-properties-limited,"	47276200000",14.03,0.25,1.81,Financials
+JSE:MTM,"Momentum Metropolitan Holdings (JSE:MTM)",https://www.listcorp.com/jse/mtm/momentum-metropolitan-holdings,"	46336800000",34.34,0.32,0.94,Financials
+JSE:TFG,"The Foschini Group (JSE:TFG)",https://www.listcorp.com/jse/tfg/the-foschini-group,"	45380500000",133.36,-3.73,-2.72,"Consumer Services"
+JSE:ARI,"African Rainbow Minerals (JSE:ARI)",https://www.listcorp.com/jse/ari/african-rainbow-minerals,"	39660000000",176.4,-2.70,-1.51,"Basic Materials"
+JSE:INL,"Investec Limited (JSE:INL)",https://www.listcorp.com/jse/inl/investec-limited,"	38567000000",131.235,0.55,0.42,Financials
+JSE:HMN,"Hammerson plc (JSE:HMN)",https://www.listcorp.com/jse/hmn/hammerson-plc,"	34955300000",71.3,-0.20,-0.28,Financials
+JSE:SRE,"Sirius Real Estate (JSE:SRE)",https://www.listcorp.com/jse/sre/sirius-real-estate,"	34697100000",22.94,0.01,0.04,Financials
+JSE:RDF,"Redefine Properties Limited (JSE:RDF)",https://www.listcorp.com/jse/rdf/redefine-properties-limited,"	33708200000",4.72,0.04,0.85,Financials
+JSE:AVI,"AVI Limited (JSE:AVI)",https://www.listcorp.com/jse/avi/avi-limited,"	33235700000",96.78,-0.93,-0.95,"Consumer Goods"
+JSE:BOX,"Boxer Retail Limited (JSE:BOX)",https://www.listcorp.com/jse/box/boxer-retail-limited,"	32599400000",69.89,-1.38,-1.94,"Consumer Services"
+JSE:TRU,"Truworths International Limited (JSE:TRU)",https://www.listcorp.com/jse/tru/truworths-international-limited,"	30184000000",72.09,-1.80,-2.44,"Consumer Services"
+JSE:N91,"Ninety One plc (JSE:N91)",https://www.listcorp.com/jse/n91/ninety-one-plc,"	28178900000",45.62,0.79,1.76,Financials
+JSE:DCP,"Dis-Chem Pharmacies Limited (JSE:DCP)",https://www.listcorp.com/jse/dcp/dis-chem-pharmacies-limited,"	27909700000",32.4,-0.05,-0.15,"Consumer Services"
+JSE:KST,"PSG Konsult Limited (JSE:KST)",https://www.listcorp.com/jse/kst/psg-konsult-limited,"	27545000000",21.85,0.00,0,Financials
+JSE:PAN,"Pan African Resources plc (JSE:PAN)",https://www.listcorp.com/jse/pan/pan-african-resources-plc,"	27537600000",11.85,0.06,0.51,"Basic Materials"
+JSE:TKG,"Telkom SA Limited (JSE:TKG)",https://www.listcorp.com/jse/tkg/telkom-sa-limited,"	27514700000",53.82,-0.01,-0.02,Telecommunications
+JSE:KRO,"Karooooo Ltd (JSE:KRO)",https://www.listcorp.com/jse/kro/karooooo-ltd,"	27186400000",860.5,-19.54,-2.22,Technology
+JSE:WBC,"We Buy Cars Holdings Limited (JSE:WBC)",https://www.listcorp.com/jse/wbc/we-buy-cars-holdings-limited,"	24956100000",59.61,-0.14,-0.23,Technology
+JSE:FFB,"Fortress REIT Limited - B (JSE:FFB)",https://www.listcorp.com/jse/ffb/fortress-reit-limited-b,"	24675900000",20.82,0.33,1.61,Financials
+JSE:VKE,"Vukile Property Fund Limited (JSE:VKE)",https://www.listcorp.com/jse/vke/vukile-property-fund-limited,"	24631200000",19.77,-0.02,-0.1,Financials
+JSE:SRI,"Supermarket Income REIT (JSE:SRI)",https://www.listcorp.com/jse/sri/supermarket-income-reit,"	23940300000",20.1,0.89,4.63,Financials
+JSE:CCO,"Capital & Counties Properties plc (JSE:CCO)",https://www.listcorp.com/jse/cco/capital-and-counties-properties-plc,"	23617600000",28.85,1.10,3.96,Financials
+JSE:RES,"Resilient REIT Limited (JSE:RES)",https://www.listcorp.com/jse/res/resilient-reit-limited,"	22982300000",63.59,0.66,1.05,Financials
+JSE:BAW,"Barloworld Limited (JSE:BAW)",https://www.listcorp.com/jse/baw/barloworld-limited,"	21922600000",115.5,-0.10,-0.09,Industrials
+JSE:SPP,"Spar Group Limited (JSE:SPP)",https://www.listcorp.com/jse/spp/spar-group-limited,"	21546400000",111.21,-0.66,-0.59,"Consumer Services"
+JSE:DRD,"DRDGOLD Limited (JSE:DRD)",https://www.listcorp.com/jse/drd/drdgold-limited,"	21528300000",24.36,-0.54,-2.17,"Basic Materials"
+JSE:LHC,"Life Healthcare Group (JSE:LHC)",https://www.listcorp.com/jse/lhc/life-healthcare-group,"	21173800000",14.28,-0.15,-1.04,"Health Care"
+JSE:BYI,"Bytes Technology Group (JSE:BYI)",https://www.listcorp.com/jse/byi/bytes-technology-group,"	21031200000",87.29,0.09,0.1,Technology
+JSE:PIK,"Pick n Pay Stores Limited (JSE:PIK)",https://www.listcorp.com/jse/pik/pick-n-pay-stores-limited,"	20483200000",27.595,0.13,0.46,"Consumer Services"
+JSE:NTC,"Netcare Limited (JSE:NTC)",https://www.listcorp.com/jse/ntc/netcare-limited,"	18996000000",13.35,0.15,1.14,"Health Care"
+JSE:ADH,"ADvTECH Limited (JSE:ADH)",https://www.listcorp.com/jse/adh/advtech-limited,"	18485600000",33.08,-0.26,-0.78,"Consumer Services"
+JSE:PMR,"Premier Group Limited (JSE:PMR)",https://www.listcorp.com/jse/pmr/premier-group-limited,"	18304600000",144.46,2.46,1.73,"Consumer Goods"
+JSE:MTH,"Motus Holdings Limited (JSE:MTH)",https://www.listcorp.com/jse/mth/motus-holdings-limited,"	17955300000",97.79,-2.26,-2.26,"Consumer Services"
+JSE:SAP,"Sappi Limited (JSE:SAP)",https://www.listcorp.com/jse/sap/sappi-limited,"	17625300000",28.405,-0.75,-2.56,"Basic Materials"
+JSE:HYP,"Hyprop Investments Limited (JSE:HYP)",https://www.listcorp.com/jse/hyp/hyprop-investments-limited,"	17486600000",44.28,0.50,1.14,Financials
+JSE:GTC,"Globe Trade Centre S.A. (JSE:GTC)",https://www.listcorp.com/jse/gtc/globe-trade-centre-sa,"	17227700000",30,0.00,0,Financials
+JSE:LTE,"Lighthouse Capital Limited (JSE:LTE)",https://www.listcorp.com/jse/lte/lighthouse-capital-limited,"	17067200000",8.18,0.01,0.12,Financials
+JSE:MSP,"MAS Real Estate Inc (JSE:MSP)",https://www.listcorp.com/jse/msp/mas-real-estate-inc,"	16714800000",23.13,-0.21,-0.9,Financials
+JSE:CML,"Coronation Fund Managers (JSE:CML)",https://www.listcorp.com/jse/cml/coronation-fund-managers,"	15370200000",39.92,0.22,0.55,Financials
+JSE:DTC,"Datatec Limited (JSE:DTC)",https://www.listcorp.com/jse/dtc/datatec-limited,"	15037900000",63.86,0.19,0.3,Technology
+JSE:APH,"Alphamin Resources Corporation (JSE:APH)",https://www.listcorp.com/jse/aph/alphamin-resources-corporation,"	14967100000",11.75,0.00,0,"Basic Materials"
+JSE:ITE,"Italtile Limited (JSE:ITE)",https://www.listcorp.com/jse/ite/italtile-limited,"	13216500000",10,0.00,0,"Consumer Services"
+JSE:OMN,"Omnia Holdings Limited (JSE:OMN)",https://www.listcorp.com/jse/omn/omnia-holdings-limited,"	12858800000",81.02,1.79,2.26,"Basic Materials"
+JSE:EQU,"Equites Property Fund Limited (JSE:EQU)",https://www.listcorp.com/jse/equ/equites-property-fund-limited,"	12720300000",15.71,0.31,2.01,Financials
+JSE:WBO,"Wilson Bayly Holmes-Ovcon Limited (JSE:WBO)",https://www.listcorp.com/jse/wbo/wilson-bayly-holmes-ovcon-limited,"	12712300000",180.08,1.07,0.6,Industrials
+JSE:BLU,"Blue Label Telecoms (JSE:BLU)",https://www.listcorp.com/jse/blu/blue-label-telecoms,"	12672400000",13.89,0.02,0.14,Telecommunications
+JSE:TGA,"Thungela Resources Limited (JSE:TGA)",https://www.listcorp.com/jse/tga/thungela-resources,"	12361900000",85.15,-2.84,-3.23,"Basic Materials"
+JSE:SUI,"Sun International Limited (JSE:SUI)",https://www.listcorp.com/jse/sui/sun-international-limited,"	12165500000",46.96,-0.16,-0.34,"Consumer Services"
+JSE:NY1,"Ninety One Limited (JSE:NY1)",https://www.listcorp.com/jse/ny1/ninety-one-limited,"	11709000000",44.09,0.46,1.05,Financials
+JSE:JSE,"JSE Limited (JSE:JSE)",https://www.listcorp.com/jse/jse/jse-limited,"	11354900000",131.2,-0.29,-0.22,Financials
+JSE:AFH,"Alexander Forbes Group Holdings Limited (JSE:AFH)",https://www.listcorp.com/jse/afh/alexander-forbes,"	11045800000",8.5,0.00,0,Financials
+JSE:HCI,"Hosken Consolidated Investments Limited (JSE:HCI)",https://www.listcorp.com/jse/hci/hosken-consolidated-investments-limited,"	10954800000",141.4,14.15,11.12,Financials
+JSE:AFE,"AECI Limited (JSE:AFE)",https://www.listcorp.com/jse/afe/aeci-limited,"	10717400000",101.65,0.08,0.08,"Basic Materials"
+JSE:ATT,"Attacq Limited (JSE:ATT)",https://www.listcorp.com/jse/att/attacq-limited,"	10700500000",14.41,0.07,0.49,Financials
+JSE:RLO,"Reunert Limited (JSE:RLO)",https://www.listcorp.com/jse/rlo/reunert-limited,"	10287700000",56.27,-0.05,-0.09,Industrials
+JSE:RCL,"RCL Foods Limited (JSE:RCL)",https://www.listcorp.com/jse/rcl/rcl-foods-limited,"	9688460000",10.89,0.09,0.83,"Consumer Goods"
+JSE:AEL,"Allied Electronics Corporation (JSE:AEL)",https://www.listcorp.com/jse/ael/allied-electronics-corporation,"	8865100000",22.09,0.59,2.74,Technology
+JSE:BAT,"Brait PLC (JSE:BAT)",https://www.listcorp.com/jse/bat/brait-plc,"	8536530000",2.23,0.02,0.9,Financials
+JSE:CAA,"CA Sales Holdings Limited (JSE:CAA)",https://www.listcorp.com/jse/caa/ca-sales-holdings-limited,"	8325080000",17.46,0.16,0.92,Industrials
+JSE:GND,"Grindrod Limited (JSE:GND)",https://www.listcorp.com/jse/gnd/grindrod-limited,"	8292620000",11.93,0.05,0.42,Industrials
+JSE:RBX,"Raubex Group Limited (JSE:RBX)",https://www.listcorp.com/jse/rbx/raubex-group-limited,"	8231460000",45.46,0.17,0.38,Industrials
+JSE:AIP,"Adcock Ingram Holdings (JSE:AIP)",https://www.listcorp.com/jse/aip/adcock-ingram-holdings,"	8218230000",51.14,0.19,0.37,"Health Care"
+JSE:SAC,"SA Corporate Real Estate Fund Limited (JSE:SAC)",https://www.listcorp.com/jse/sac/sa-corporate-real-estate-fund-limited,"	8085760000",3.15,0.07,2.27,Financials
+JSE:CVW,"Castleview Property Fund Limited (JSE:CVW)",https://www.listcorp.com/jse/cvw/castleview-property-fund-limited,"	8072170000",8.2,0.00,0,Financials
+JSE:PPC,"PPC Limited (JSE:PPC)",https://www.listcorp.com/jse/ppc/ppc-limited,"	7970810000",5.12,-0.01,-0.19,Industrials
+JSE:IPF,"Investec Property Fund Limited (JSE:IPF)",https://www.listcorp.com/jse/ipf/investec-property-fund-limited,"	7928450000",9.83,-0.02,-0.2,Financials
+JSE:TSG,"Tsogo Sun Gaming (JSE:TSG)",https://www.listcorp.com/jse/tsg/tsogo-sun-gaming,"	7871610000",7.5,-0.05,-0.66,"Consumer Services"
+JSE:DKR,"Deutsche Konsum REIT-AG (JSE:DKR)",https://www.listcorp.com/jse/dkr/deutsche-konsum-reit,"	7854770000",156,0.00,0,Financials
+JSE:SDO,"STADIO Holdings Limited (JSE:SDO)",https://www.listcorp.com/jse/sdo/stadio-holdings-limited,"	7662350000",8.99,-0.01,-0.11,"Consumer Services"
+JSE:ARL,"Astral Foods Limited (JSE:ARL)",https://www.listcorp.com/jse/arl/astral-foods-limited,"	7624710000",174.28,-3.36,-1.89,"Consumer Goods"
+JSE:SSS,"Stor-Age Property REIT (JSE:SSS)",https://www.listcorp.com/jse/sss/stor-age-property-reit,"	7542850000",15.69,0.03,0.19,Financials
+JSE:AFT,"Afrimat Limited (JSE:AFT)",https://www.listcorp.com/jse/aft/afrimat-limited,"	7053090000",44.35,0.35,0.8,Industrials
+JSE:OCE,"Oceana Group Limited (JSE:OCE)",https://www.listcorp.com/jse/oce/oceana-group-limited,"	6975660000",53.26,-0.49,-0.91,"Consumer Goods"
+JSE:THA,"Tharisa plc (JSE:THA)",https://www.listcorp.com/jse/tha/tharisa,"	6421100000",20.99,-0.23,-1.08,"Basic Materials"
+JSE:FBR,"Famous Brands Limited (JSE:FBR)",https://www.listcorp.com/jse/fbr/famous-brands-limited,"	6187490000",61.87,0.12,0.19,"Consumer Services"
+JSE:HDC,"Hudaco Industries Limited (JSE:HDC)",https://www.listcorp.com/jse/hdc/hudaco-industries-limited,"	6086510000",194,-2.99,-1.52,Industrials
+JSE:CLI,"Clientele Limited (JSE:CLI)",https://www.listcorp.com/jse/cli/clientele-limited,"	5892400000",12.88,-0.12,-0.92,Financials
+JSE:EMI,"Emira Property Fund Limited (JSE:EMI)",https://www.listcorp.com/jse/emi/emira-property-fund-limited,"	5656560000",11.04,0.04,0.36,Financials
+JSE:SPG,"Super Group Limited (JSE:SPG)",https://www.listcorp.com/jse/spg/super-group-limited,"	5283600000",15.6,0.06,0.39,Industrials
+JSE:COH,"Curro Holdings Limited (JSE:COH)",https://www.listcorp.com/jse/coh/curro-holdings-limited,"	5146080000",9.16,0.05,0.55,"Consumer Services"
+JSE:HET,"Heriot REIT Limited (JSE:HET)",https://www.listcorp.com/jse/het/heriot-reit-limited,"	5122590000",16,0.00,0,Financials
+JSE:DIB,"Dipula Income Fund Limited B (JSE:DIB)",https://www.listcorp.com/jse/dib/dipula-income-fund-limited-b,"	4889130000",5.52,0.15,2.79,Financials
+JSE:MED,"Middle East Diamond Resources Limited (JSE:MED)",https://www.listcorp.com/jse/med/middle-east-diamond-resources-limited,"	4786390000",0,0.00,0,"Basic Materials"
+JSE:SYG,"Sygnia Limited (JSE:SYG)",https://www.listcorp.com/jse/syg/sygnia-limited,"	4759700000",30.22,-0.38,-1.24,Financials
+JSE:KAP,"KAP Limited (JSE:KAP)",https://www.listcorp.com/jse/kap/kap-limited,"	4752260000",1.9,0.00,0,Industrials
+JSE:RFG,"RFG Holdings Limited (JSE:RFG)",https://www.listcorp.com/jse/rfg/rfg-holdings-limited,"	4464330000",16.52,-0.47,-2.77,"Consumer Goods"
+JSE:NPK,"Nampak Limited (JSE:NPK)",https://www.listcorp.com/jse/npk/nampak-limited,"	4450000000",524.99,0.00,0,Industrials
+JSE:EXP,"Exemplar Reitail Limited (JSE:EXP)",https://www.listcorp.com/jse/exp/exemplar-reitail-limited,"	4426110000",13.32,0.00,0,Financials
+JSE:SEA,"Spear Reit Limited (JSE:SEA)",https://www.listcorp.com/jse/sea/spear-reit-limited,"	4252590000",10.39,0.14,1.37,Financials
+JSE:NT1,"Net 1 UEPS Technologies Inc (JSE:NT1)",https://www.listcorp.com/jse/nt1/net1,"	4228030000",75,0.00,0,Industrials
+JSE:LEW,"Lewis Group Limited (JSE:LEW)",https://www.listcorp.com/jse/lew/lewis-group-limited,"	4225420000",81.11,0.10,0.12,"Consumer Services"
+JSE:CAT,"Caxton & CTP Publishers & Printers Limited (JSE:CAT)",https://www.listcorp.com/jse/cat/caxton-and-ctp-publishers-and-printers-limited,"	4065480000",11.5,0.00,0,"Consumer Services"
+JSE:BEL,"Bell Equipment Limited (JSE:BEL)",https://www.listcorp.com/jse/bel/bell-equipment-limited,"	4006870000",41.9,0.00,0,Industrials
+JSE:MPT,"Mpact Limited (JSE:MPT)",https://www.listcorp.com/jse/mpt/mpact-limited,"	3760250000",26,0.84,3.34,Industrials
+JSE:SBP,"Sabvest Capital Limited (JSE:SBP)",https://www.listcorp.com/jse/sbp/sabvest-capital-limited,"	3721890000",96,-1.00,-1.03,Financials
+JSE:RBO,"Rainbow Chicken Limited (JSE:RBO)",https://www.listcorp.com/jse/rbo/rainbow-chicken-limited,"	3616770000",4.05,0.00,0,"Consumer Goods"
+JSE:CSB,"Cashbuild Limited (JSE:CSB)",https://www.listcorp.com/jse/csb/cashbuild-limited,"	3506960000",149.28,-0.72,-0.48,"Consumer Services"
+JSE:HIL,"Homechoice International plc (JSE:HIL)",https://www.listcorp.com/jse/hil/homechoice-international-plc,"	3443120000",32.26,0.00,0,"Consumer Services"
+JSE:MRF,"Merafe Resources Limited (JSE:MRF)",https://www.listcorp.com/jse/mrf/merafe-resources-limited,"	3273860000",1.3,-0.01,-0.76,"Basic Materials"
+JSE:ACS,"Acsion Limited (JSE:ACS)",https://www.listcorp.com/jse/acs/acsion-limited,"	3211020000",6.59,-1.54,-18.94,Financials
+JSE:IVT,"Invicta Holdings Limited (JSE:IVT)",https://www.listcorp.com/jse/ivt/invicta-holdings,"	3171270000",34.41,-0.09,-0.26,Industrials
+JSE:KP2,"Kore Potash Plc (JSE:KP2)",https://www.listcorp.com/jse/kp2/kore-potash-plc,"	3156560000",0.62,-0.03,-4.62,"Basic Materials"
+JSE:KAL,"Kaap Agri Limited (JSE:KAL)",https://www.listcorp.com/jse/kal/kaap-agri-limited,"	3121430000",41.21,-0.79,-1.88,"Consumer Services"
+JSE:CHP,"Choppies Enterprises Limited (JSE:CHP)",https://www.listcorp.com/jse/chp/choppies-enterprises-limited,"	3101580000",1.69,-0.01,-0.59,"Consumer Services"
+JSE:SUR,"Spur Corporation Limited (JSE:SUR)",https://www.listcorp.com/jse/sur/spur-corporation-limited,"	3093900000",35.27,1.27,3.74,"Consumer Services"
+JSE:OAO,"Oando PLC (JSE:OAO)",https://www.listcorp.com/jse/oao/oando-plc,"	2983540000",0.3,0.06,25,"Oil & Gas"
+JSE:SHG,"Sea Harvest Group Limited (JSE:SHG)",https://www.listcorp.com/jse/shg/sea-harvest-group-limited,"	2939130000",7.99,-0.15,-1.84,"Consumer Goods"
+JSE:OCT,"Octodec Investments Limited (JSE:OCT)",https://www.listcorp.com/jse/oct/octodec-investments-limited,"	2739170000",10.25,-0.04,-0.39,Financials
+JSE:JBL,"Jubilee Metals Group Plc (JSE:JBL)",https://www.listcorp.com/jse/jbl/jubilee-metals-group-plc,"	2674350000",0.83,-0.02,-2.35,"Basic Materials"
+JSE:GML,"Gemfields Group Limited (JSE:GML)",https://www.listcorp.com/jse/gml/gemfields-group-limited,"	2586350000",1.44,-0.06,-4,"Basic Materials"
+JSE:ZZD,"Zeda Limited (JSE:ZZD)",https://www.listcorp.com/jse/zzd/zeda-limited,"	2436900000",12.8,-0.05,-0.39,"Consumer Goods"
+JSE:AHB,"Arrowhead Properties Limited B (JSE:AHB)",https://www.listcorp.com/jse/ahb/arrowhead-properties-limited-b,"	2428630000",2.47,0.03,1.23,Financials
+JSE:NVS,"Novus Holdings Limited (JSE:NVS)",https://www.listcorp.com/jse/nvs/novus-holdings-limited,"	2419440000",7.03,-0.02,-0.28,Industrials
+JSE:MDI,"Master Drilling Group Limited (JSE:MDI)",https://www.listcorp.com/jse/mdi/master-drilling-group,"	2392030000",15.5,-0.39,-2.45,Industrials
+JSE:CMH,"Combined Motor Holdings Limited (JSE:CMH)",https://www.listcorp.com/jse/cmh/combined-motor-holdings-limited,"	2309890000",30.1,-0.78,-2.53,"Consumer Services"
+JSE:CLH,"City Lodge Hotels Limited (JSE:CLH)",https://www.listcorp.com/jse/clh/city-lodge-hotels-limited,"	2291210000",3.79,-0.09,-2.32,"Consumer Services"
+JSE:CTA,"Capital Appreciation Limited (JSE:CTA)",https://www.listcorp.com/jse/cta/capital-appreciation-limited,"	2253200000",1.73,0.01,0.58,Technology
+JSE:PPE,"Purple Group Limited (JSE:PPE)",https://www.listcorp.com/jse/ppe/purple-group-limited,"	2233390000",1.52,-0.05,-3.18,Financials
+JSE:SCD,"Schroder European Real Estate Investment Trust (JSE:SCD)",https://www.listcorp.com/jse/scd/schroeder-european-reit,"	2221330000",16.5,-0.11,-0.66,Financials
+JSE:LBR,"Libstar Holdings Limited (JSE:LBR)",https://www.listcorp.com/jse/lbr/libstar-holdings-limited,"	2195790000",3.17,-0.05,-1.55,"Consumer Goods"
+JSE:MTNZF,"MTN Zakhele Futhi (JSE:MTNZF)",https://www.listcorp.com/jse/mtnzf/mtn-zakhele-futhi,"	2147450000",19,1.60,9.2,Financials
+JSE:TDH,"Tradehold Limited (JSE:TDH)",https://www.listcorp.com/jse/tdh/tradehold-limited,"	2090770000",8,0.00,0,Financials
+JSE:ZED,"Zeder Investments Limited (JSE:ZED)",https://www.listcorp.com/jse/zed/zeder-investments-limited,"	2048410000",1.27,-0.06,-4.51,Financials
+JSE:SAR,"Safari Investments RSA Limited (JSE:SAR)",https://www.listcorp.com/jse/sar/safari-investments-rsa-limited,"	1776420000",6.89,0.00,0,Financials
+JSE:REN,"Renergen Limited (JSE:REN)",https://www.listcorp.com/jse/ren/renergen-limited,"	1745670000",10.89,-0.36,-3.2,"Oil & Gas"
+JSE:EPE,"EPE Capital Partners Limited (JSE:EPE)",https://www.listcorp.com/jse/epe/epe-capital-partners-limited,"	1692330000",6.6,0.00,0,Financials
+JSE:QFH,"Quantum Foods Holdings (JSE:QFH)",https://www.listcorp.com/jse/qfh/quantum-foods-holdings,"	1663210000",8.19,0.00,0,"Consumer Goods"
+JSE:UPL,"Universal Partners Limited (JSE:UPL)",https://www.listcorp.com/jse/upl/universal-partners-limited,"	1530780000",21,0.00,0,Financials
+JSE:ART,"Argent Industrial Limited (JSE:ART)",https://www.listcorp.com/jse/art/argent-industrial-limited,"	1476170000",27.44,0.32,1.18,Industrials
+JSE:MTA,"Metair Investments Limited (JSE:MTA)",https://www.listcorp.com/jse/mta/metair-investments-limited,"	1430710000",7.47,0.28,3.89,"Consumer Goods"
+JSE:ACT,"Afrocentric Investment Corp (JSE:ACT)",https://www.listcorp.com/jse/act/afrocentric-investment-corp,"	1420760000",1.69,0.00,0,"Health Care"
+JSE:YYLBEE,"YeboYethu (RF) Limited (JSE:YYLBEE)",https://www.listcorp.com/jse/yylbee/yeboyethu-rf-limited,"	1386930000",27.5,1.29,4.92,Financials
+JSE:BWN,"Balwin Properties Limited (JSE:BWN)",https://www.listcorp.com/jse/bwn/balwin-properties-limited,"	1360860000",2.57,-0.05,-1.91,Financials
+JSE:OAS,"Oasis Crescent Property Fund (JSE:OAS)",https://www.listcorp.com/jse/oas/oasis-crescent-property-fund,"	1306300000",20,0.00,0,Financials
+JSE:GPL,"Grand Parade Investments Limited (JSE:GPL)",https://www.listcorp.com/jse/gpl/grand-parade-investments-limited,"	1297780000",2.78,0.00,0,Financials
+JSE:SNV,"Santova Limited (JSE:SNV)",https://www.listcorp.com/jse/snv/santova-limited,"	1204360000",9.29,0.00,0,Industrials
+JSE:MFL,"Metrofile Holdings Limited (JSE:MFL)",https://www.listcorp.com/jse/mfl/metrofile-holdings-limited,"	1131960000",2.61,0.00,0,Industrials
+JSE:ACL,"ArcelorMittal South Africa Limited (JSE:ACL)",https://www.listcorp.com/jse/acl/arcelormittal-south-africa-limited,"	1126680000",1,0.01,1.01,"Basic Materials"
+JSE:APF,"Accelerate Property Fund Ltd (JSE:APF)",https://www.listcorp.com/jse/apf/accelerate-property-fund-ltd,"	1067390000",0.55,-0.03,-5.17,Financials
+JSE:MMP,"Marshall Monteagle PLC (JSE:MMP)",https://www.listcorp.com/jse/mmp/marshall-monteagle-plc,"	1043810000",29.11,0.00,0,Industrials
+JSE:TPC,"Transpaco Limited (JSE:TPC)",https://www.listcorp.com/jse/tpc/transpaco-limited,"	1043700000",37.49,0.00,0,Industrials
+JSE:EMN,"E Media Holdings Limited - N Shares (JSE:EMN)",https://www.listcorp.com/jse/emn/e-media-holdings-limited-n,"	1031040000",2.72,0.00,0,"Consumer Services"
+JSE:BRN,"Brimstone Investment Corporation - N Shares (JSE:BRN)",https://www.listcorp.com/jse/brn/brimstone-investment-corporation-n,"	989894000",4.4,0.00,0,Financials
+JSE:BCF,"Bowler Metcalf Limited (JSE:BCF)",https://www.listcorp.com/jse/bcf/bowler-metcalf-limited,"	971146000",13,0.00,0,Industrials
+JSE:ORN,"Orion Minerals Limited (JSE:ORN)",https://www.listcorp.com/jse/orn/orion-minerals-limited,"	959063000",0.13,-0.01,-7.14,"Basic Materials"
+JSE:YRK,"York Timber Holdings Limited (JSE:YRK)",https://www.listcorp.com/jse/yrk/york-timber-holdings-limited,"	938714000",2,0.02,1.01,"Basic Materials"
+JSE:HPR,"Hosken Passenger Logistics and Rail Limited (JSE:HPR)",https://www.listcorp.com/jse/hpr/hosken-passenger-logistics-and-rail-limited,"	922200000",3.18,0.00,0,"Consumer Services"
+JSE:TEX,"Texton Property Fund Limited (JSE:TEX)",https://www.listcorp.com/jse/tex/texton-property-fund-limited,"	874658000",2.65,0.00,0,Financials
+JSE:ENX,"enX Group Limited (JSE:ENX)",https://www.listcorp.com/jse/enx/enx-group-limited,"	873278000",4.79,0.00,0,Industrials
+JSE:DNB,"Deneb Investments Limited (JSE:DNB)",https://www.listcorp.com/jse/dnb/deneb-investments-limited,"	839567000",1.9,0.00,0,Financials
+JSE:MST,"Mustek Limited (JSE:MST)",https://www.listcorp.com/jse/mst/mustek-limited,"	791175000",13.45,-0.30,-2.18,Technology
+JSE:ADR,"Adcorp Holdings Limited (JSE:ADR)",https://www.listcorp.com/jse/adr/adcorp-holdings-limited,"	786748000",7.16,0.00,0,Industrials
+JSE:HLM,"Hulamin Limited (JSE:HLM)",https://www.listcorp.com/jse/hlm/hulamin-limited,"	775121000",2.35,-0.04,-1.67,"Basic Materials"
+JSE:AEG,"Aveng Group Limited (JSE:AEG)",https://www.listcorp.com/jse/aeg/aveng-group-limited,"	762810000",5.97,-0.03,-0.5,Industrials
+JSE:SSK,"Stefanutti Stocks Holdings Limited (JSE:SSK)",https://www.listcorp.com/jse/ssk/stefanutti-stocks-holdings-limited,"	742919000",3.99,0.04,1.01,Industrials
+JSE:WEZ,"Wesizwe Platinum Limited (JSE:WEZ)",https://www.listcorp.com/jse/wez/wesizwe-platinum-limited,"	732522000",0.45,0.00,0,"Basic Materials"
+JSE:SDL,"Southern Palladium Limited (JSE:SDL)",https://www.listcorp.com/jse/sdl/southern-palladium-limited,"	694105000",6.5,0.01,0.15,"Basic Materials"
+JSE:NWL,"Nu-World Holdings Limited (JSE:NWL)",https://www.listcorp.com/jse/nwl/nu-world-holdings-limited,"	632020000",29,0.00,0,"Consumer Goods"
+JSE:PBG,"PBT Group Limited (JSE:PBG)",https://www.listcorp.com/jse/pbg/pbt-group-limited,"	613858000",5.85,0.00,0,Technology
+JSE:RMH,"RMB Holdings Limited (JSE:RMH)",https://www.listcorp.com/jse/rmh/rmb-holdings-limited,"	585032000",0.42,0.00,0,Financials
+JSE:CGR,"Calgro M3 Holdings Limited (JSE:CGR)",https://www.listcorp.com/jse/cgr/calgro-m3,"	583346000",5.15,0.05,0.98,Industrials
+JSE:AHA,"Arrowhead Properties Limited A (JSE:AHA)",https://www.listcorp.com/jse/aha/arrowhead-properties-limited-a,"	571367000",9.11,0.00,0,Financials
+JSE:MCZ,"MC Mining Limited (JSE:MCZ)",https://www.listcorp.com/jse/mcz/mc-mining-limited,"	567198000",1.3,-0.07,-5.11,"Basic Materials"
+JSE:TON,"Tongaat Hulett Limited (JSE:TON)",https://www.listcorp.com/jse/ton/tongaat-hulett-limited,"	545855000",4.04,0.00,0,"Consumer Goods"
+JSE:ASC,"Ascendis Health Limited (JSE:ASC)",https://www.listcorp.com/jse/asc/ascendis-health-limited,"	543924000",0.85,-0.01,-1.16,"Health Care"
+JSE:ARA,"Astoria Investments Limited (JSE:ARA)",https://www.listcorp.com/jse/ara/astoria-investments-limited,"	496498000",8,0.00,0,Financials
+JSE:MUR,"Murray & Roberts Holdings Limited (JSE:MUR)",https://www.listcorp.com/jse/mur/murray-and-roberts-holdings-limited,"	489210000",1.1,0.00,0,Industrials
+JSE:NRL,"Newpark REIT Limited (JSE:NRL)",https://www.listcorp.com/jse/nrl/newpark-reit-limited,"	480000000",4.8,0.00,0,Financials
+JSE:FGL,"Finbond Group Limited (JSE:FGL)",https://www.listcorp.com/jse/fgl/finbond-group-limited,"	469305000",0.94,0.03,3.3,Financials
+JSE:CKS,"Crookes Brothers Limited (JSE:CKS)",https://www.listcorp.com/jse/cks/crookes-brothers-limited,"	424348000",27.8,0.00,0,"Consumer Goods"
+JSE:SEP,"Sephaku Holdings Limited (JSE:SEP)",https://www.listcorp.com/jse/sep/sephaku-holdings-limited,"	407178000",1.7,0.10,6.25,Industrials
+JSE:WSL,"Wescoal Holdings Limited (JSE:WSL)",https://www.listcorp.com/jse/wsl/wescoal-holdings-limited,"	403120000",0.87,-0.09,-9.38,"Basic Materials"
+JSE:VUN,"Vunani Limited (JSE:VUN)",https://www.listcorp.com/jse/vun/vunani-limited,"	369047000",2.29,0.00,0,Financials
+JSE:4SI,"4Sight Holdings Limited (JSE:4SI)",https://www.listcorp.com/jse/4si/4sight-holdings-limited,"	368689000",0.67,0.00,0,Financials
+JSE:TTO,"Trustco Group Holdings Limited (JSE:TTO)",https://www.listcorp.com/jse/tto/trustco-group-holdings-limited,"	357652000",0.3,0.00,0,Financials
+JSE:SOH,"South Ocean Holdings (JSE:SOH)",https://www.listcorp.com/jse/soh/south-ocean-holdings,"	355734000",1.74,-0.01,-0.57,Industrials
+JSE:PMV,"Primeserv Group Limited (JSE:PMV)",https://www.listcorp.com/jse/pmv/primeserv-group-limited,"	343566000",3,0.00,0,Industrials
+JSE:AME,"African Media Entertainment (JSE:AME)",https://www.listcorp.com/jse/ame/african-media-entertainment,"	336084000",48.5,0.00,0,"Consumer Services"
+JSE:ISA,"ISA Holdings Limited (JSE:ISA)",https://www.listcorp.com/jse/isa/isa-holdings-limited,"	330950000",1.94,0.00,0,Technology
+JSE:HUG,"Huge Group Limited (JSE:HUG)",https://www.listcorp.com/jse/hug/huge-group-limited,"	310611000",1.8,0.00,0,Telecommunications
+JSE:SOLBE1,"Sasol Limited - BEE (JSE:SOLBE1)",https://www.listcorp.com/jse/solbe1/sasol-limited-bee,"	300739000",47.5,0.00,0,"Basic Materials"
+JSE:TMT,"Trematon Capital Investments Limited (JSE:TMT)",https://www.listcorp.com/jse/tmt/trematon-capital-investments-limited,"	265026000",1.3,0.11,9.24,Financials
+JSE:EPS,"Eastern Platinum Limited (JSE:EPS)",https://www.listcorp.com/jse/eps/eastern-platinum,"	242990000",1.2,0.00,0,"Basic Materials"
+JSE:TRL,"Trellidor Holdings Limited (JSE:TRL)",https://www.listcorp.com/jse/trl/trellidor-holdings-limited,"	233264000",2.45,0.00,0,Industrials
+JSE:RTN,"Rex Trueform Group - N Shares (JSE:RTN)",https://www.listcorp.com/jse/rtn/rex-trueform-group-n,"	229306000",12.31,0.00,0,"Consumer Services"
+JSE:ISB,"Insimbi Industrial Holdings Ltd (JSE:ISB)",https://www.listcorp.com/jse/isb/insimbi-industrial-holdings-ltd,"	205157000",0.62,0.00,0,"Basic Materials"
+JSE:TRE,"Trencor Limited (JSE:TRE)",https://www.listcorp.com/jse/tre/trencor-limited,"	185682000",1.06,-0.01,-0.93,Industrials
+JSE:EMH,"E Media Holdings Limited (JSE:EMH)",https://www.listcorp.com/jse/emh/e-media-holdings-limited,"	181859000",2.85,0.00,0,"Consumer Services"
+JSE:DLT,"Delta Property Fund Limited (JSE:DLT)",https://www.listcorp.com/jse/dlt/delta-property-fund-limited,"	178559000",0.25,0.00,0,Financials
+JSE:BRT,"Brimstone Investment Corporation (JSE:BRT)",https://www.listcorp.com/jse/brt/brimstone-investment-corporation,"	171459000",4.3,0.00,0,Financials
+JSE:AON,"African and Overseas Enterprises - N Shares (JSE:AON)",https://www.listcorp.com/jse/aon/african-and-overseas-enterprises-n,"	163551000",16,0.00,0,"Consumer Services"
+JSE:PPR,"Putprop Limited (JSE:PPR)",https://www.listcorp.com/jse/ppr/putprop-limited,"	150538000",3.55,0.00,0,Financials
+JSE:KBO,"Kibo Energy PLC (JSE:KBO)",https://www.listcorp.com/jse/kbo/kibo-energy-plc,"	147152000",0.01,0.00,0,"Basic Materials"
+JSE:AYO,"AYO Tech Solutions (JSE:AYO)",https://www.listcorp.com/jse/ayo/ayo-tech-solutions,"	134038000",0.35,-0.06,-14.63,Technology
+JSE:CAC,"CAFCA Limited (JSE:CAC)",https://www.listcorp.com/jse/cac/cafca-limited,"	126210000",3.78,0.00,0,Industrials
+JSE:RHB,"RH Bophelo Limited (JSE:RHB)",https://www.listcorp.com/jse/rhb/rh-bophelo-limited,"	121620000",1.88,0.00,0,Financials
+JSE:REB,"Rebosis Property Fund (JSE:REB)",https://www.listcorp.com/jse/reb/rebosis-property-fund,"	111881000",0.16,0.00,0,Financials
+JSE:NCS,"Nictus Limited (JSE:NCS)",https://www.listcorp.com/jse/ncs/nictus-limited,"	110094000",2.06,0.00,0,"Consumer Services"
+JSE:BIK,"Brikor Limited (JSE:BIK)",https://www.listcorp.com/jse/bik/brikor-limited,"	108971000",0.13,0.00,0,Industrials
+JSE:SEB,"Sebata Holdings Limited (JSE:SEB)",https://www.listcorp.com/jse/seb/sebata-holdings,"	106871000",0.93,0.00,0,Technology
+JSE:REA,"Rebosis Property Fund - A Shares (JSE:REA)",https://www.listcorp.com/jse/rea/rebosis-property-fund-a,"	60735400",0.96,0.00,0,Financials
+JSE:TLM,"TeleMasters Holdings Limited (JSE:TLM)",https://www.listcorp.com/jse/tlm/telemasters-holdings-limited,"	59207300",1.03,0.00,0,Telecommunications
+JSE:RNG,"Randgold And Exploration Company (JSE:RNG)",https://www.listcorp.com/jse/rng/randgold-and-exploration-company,"	58922200",0.79,0.00,0,"Basic Materials"
+JSE:LAB,"Labat Africa Limited (JSE:LAB)",https://www.listcorp.com/jse/lab/labat-africa-limited,"	56618800",0.05,0.00,0,Industrials
+JSE:RTO,"Rex Trueform Group (JSE:RTO)",https://www.listcorp.com/jse/rto/rex-trueform-group,"	44403600",11.8,0.00,0,"Consumer Services"
+JSE:EEL,"Efora Energy Limited (JSE:EEL)",https://www.listcorp.com/jse/eel/efora-energy-limited,"	33115000",0.03,0.00,0,"Oil & Gas"
+JSE:PSV,"PSV Holdings Limited (JSE:PSV)",https://www.listcorp.com/jse/psv/psv-holdings-limited,"	32718600",0.08,0.00,0,Industrials
+JSE:CND,"Conduit Capital Limited (JSE:CND)",https://www.listcorp.com/jse/cnd/conduit-capital-limited,"	30577800",0.04,0.00,0,Financials
+JSE:AOO,"African and Overseas Enterprises Limited (JSE:AOO)",https://www.listcorp.com/jse/aoo/african-and-overseas-enterprises-limited,"	26741800",16.52,0.00,0,"Consumer Services"
+JSE:MRI,"Mine Restoration Investments Limited (JSE:MRI)",https://www.listcorp.com/jse/mri/mine-restoration-investments-limited,"	25885700",0.03,0.00,0,Industrials
+JSE:EUZ,"Europa Metals Limited (JSE:EUZ)",https://www.listcorp.com/jse/euz/europa-metals-limited,"	22477800",0.22,0.00,0,"Basic Materials"
+JSE:GLI,"Go Life International Ltd (JSE:GLI)",https://www.listcorp.com/jse/gli/go-life-international-ltd,"	12425000",0.01,0.00,0,"Health Care"
+JSE:VIS,"Visual International Holdings Limited (JSE:VIS)",https://www.listcorp.com/jse/vis/visual-international-holdings,"	11091200",0.01,0.00,0,Financials
+JSE:ADW,"African Dawn Capital (JSE:ADW)",https://www.listcorp.com/jse/adw/african-dawn-capital,"	11026700",0.15,0.00,0,Financials
+JSE:ELI,"Ellies Holdings Limited (JSE:ELI)",https://www.listcorp.com/jse/eli/ellies-holdings-limited,"	8054000",0.01,0.00,0,Industrials
+JSE:AHL,"AH-Vest Limited (JSE:AHL)",https://www.listcorp.com/jse/ahl/ah-vest-limited,"	3061070",0.03,0.00,0,"Consumer Goods"
+JSE:CMO,"Chrometco Limited (JSE:CMO)",https://www.listcorp.com/jse/cmo/chrometco-limited,"	0",0.06,0.00,0,"Basic Materials"
+JSE:EOH,"EOH Holdings (JSE:EOH)",https://www.listcorp.com/jse/eoh/eoh-holdings,"	0",2.37,0.00,0,Technology
+JSE:GAI,"Gaia Infrastructure Capital Limited (JSE:GAI)",https://www.listcorp.com/jse/gai/gaia-infrastructure-capital-limited,"	0",0,0.00,0,Financials
+JSE:TCP,"Transaction Capital Ltd (JSE:TCP)",https://www.listcorp.com/jse/tcp/transaction-capital-ltd,"	0",2.18,0.00,0,Financials
