@@ -1,0 +1,3 @@
+This report looks at whether grouping stocks by their official sectors (like financials, industrials, or technology) is still the best way to understand how they behave. Using return data from the largest companies on the JSE, we tested two alternative methods — KMeans and Hierarchical Clustering — which group stocks based on how similarly their prices move over time. We then compared these groupings to the standard sector groupings by measuring how closely the stocks within each group moved together. The goal is to see if these data-driven methods can reveal better insights for diversification and portfolio construction than traditional sector labels.
+
+I do all the programming and graph stuff here 
